@@ -1,4 +1,4 @@
-macro "Image Merge 2 channel" {
+macro "Stackz" {
 	//INPUT/OUPUT folders
 	inDir=getDirectory("Choose the input folder"); 
 	outDir=getDirectory("Choose the output folder");
